@@ -7,47 +7,38 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+#### 1.1 Original
+![original](res/original.jpg)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+#### 1.2 Solution 1
+![solution 1](res/solution_1.jpg)
+
+#### 1.3 Solution 2
+![solution 2](res/solution_2.jpg)
+
+#### 1.4 Solution 3
+![solution 3](res/solution_3.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
-
+#### 2.1 Original
+Too many filter options shown, uneven size between each results, hard to differentiate the types of each results.
+#### 2.2 Solution 1
+Fixing the size of each results so they are uniform, hides the filter options in a sidebar that can be hidden off screen. Also gives simple description of each result.
+#### 2.3 Solution 2
+Also makes the search results size the same. Show categories above search results for easier filtering. Other filter options are hidden in a menu besides it.
+#### 2.4 Solution 3
+Show search results in a list that have a description besides it. The category options are placed at the side instead of above.
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+Solution 2 for its simplicity and showing more results in a screen.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+When designing a UI intended for general public, the design should be simple enough for everyone to understand, especially those who are not familiar with digital technology.
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+A regular PC, landscape orientation with color monitor.
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+People with various backgrounds and familiarity with computers.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
