@@ -41,4 +41,5 @@ A regular PC, landscape orientation with color monitor.
 People with various backgrounds and familiarity with computers.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+Invision prototype link: https://invis.io/A5R7YXT8267
+![Freehand](res/prototype.png)
