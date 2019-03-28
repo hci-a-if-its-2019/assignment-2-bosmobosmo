@@ -32,7 +32,7 @@ Show search results in a list that have a description besides it. The category o
 Solution 2 for its simplicity and showing more results in a screen.
 
 ### 4. Design Rationale
-When designing a UI intended for general public, the design should be simple enough for everyone to understand, especially those who are not familiar with digital technology.
+The logic of the design is to make the results size similar and also make it easier to filter the results based on filetype/category.
 
 ## Part B: Assumptions
 ### 1. Hardware
